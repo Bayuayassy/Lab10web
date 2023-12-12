@@ -276,4 +276,4 @@ class Database
 ![10](https://github.com/syifaaurellia/Lab10web/assets/115867244/f35526b2-4991-4222-8db6-c932d231f70f)
 
 
-## Selesai, Terima Kasih
+## Terima Kasih
